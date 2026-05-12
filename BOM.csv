@@ -1,0 +1,11 @@
+Reference,Qty,Value,Link,Footprint
+BT1,1,Battery_Cell,https://www.tme.eu/pl/details/keys3002/baterie-pojemniki-i-uchwyty/keystone/3002/,Battery:BatteryHolder_Keystone_3002_1x2032
+BZ1,1,Buzzer,https://www.tme.eu/pl/details/cmi-1210-5-95t/sygnalizatory-elektromag-z-generatorem/same-sky/,Buzzer_Beeper:Buzzer_12x9.5RM7.6
+D1,1,LED,https://www.tme.eu/pl/details/ltst-c190krkt/diody-led-smd-kolorowe/liteon/,LED_SMD:LED_0603_1608Metric
+J1,1,PROBE_A,-,TestPoint:TestPoint_Pad_4.0x4.0mm
+J2,1,PROBE_B,-,TestPoint:TestPoint_Pad_4.0x4.0mm
+Q1,1,BC547,https://www.tme.eu/pl/details/bc547cbk-dio/tranzystory-npn-tht/diotec-semiconductor/bc547cbk/,Package_TO_SOT_THT:TO-92_Inline
+R1,1,330R,https://www.tme.eu/pl/details/rca0603330rfkea/rezystory-smd/vishay/,Resistor_SMD:R_0603_1608Metric
+R2,1,1K,https://www.tme.eu/pl/details/crcw06031k00fkea/rezystory-smd/vishay/,Resistor_SMD:R_0603_1608Metric
+R3,1,10K,https://www.tme.eu/pl/details/crcw060310k0fkea/rezystory-smd/vishay/,Resistor_SMD:R_0603_1608Metric
+S1,1,TL2285EE,https://www.tme.eu/pl/details/tl2285ee/przelaczniki-czujnikowe/e-switch/,Button_Switch_SMD:SW_SPST_PTS645Sx43SMTR92
